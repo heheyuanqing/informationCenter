@@ -1,0 +1,22 @@
+
+form .input-group{
+    margin-top: 15px;
+    width: 300px;
+}
+
+.input-group-addon{
+    background-color: white;
+    border: 0;
+}
+.check-box{
+    margin-left: 100px;
+}
+form .btn-group {
+    margin-left: 50px;
+
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
